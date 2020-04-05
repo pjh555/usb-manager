@@ -1,0 +1,13 @@
+Package: usb-manager-dbgsym
+Package-Type: ddeb
+Source: usb-manager
+Version: 3.0.3kord-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: panda <panjianheng@kylinos.cn>
+Installed-Size: 21
+Depends: usb-manager (= 3.0.3kord-1)
+Section: debug
+Priority: optional
+Description: debug symbols for usb-manager
+Build-Ids: 5d5c994c16465ef1cd2917814869f6efab185409 7df1b30c5d7398791e7e6ce3fc25daf160752fed

@@ -1,0 +1,2 @@
+#!/bin/sh
+    rm -rf /etc/udev/rules.d/99-myudisks2.rules

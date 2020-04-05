@@ -1,0 +1,5 @@
+3ab79fc3a3351774cfe9bffff6767d85  usr/bin/usb-manager
+814f04767cd9d7324446aea472d1514b  usr/include/usb_manager.h
+d7b0634a81f68f4975a060f68c44b001  usr/lib/libusbmanager.so
+21de184f40c7de789b9a286bbf6ffe4c  usr/share/doc/usb-manager/changelog.Debian.gz
+35e25519a8fabcec438d426a40ee10e2  usr/share/doc/usb-manager/copyright

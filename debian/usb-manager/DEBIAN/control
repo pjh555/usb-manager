@@ -1,0 +1,11 @@
+Package: usb-manager
+Version: 3.0.3kord-1
+Architecture: amd64
+Maintainer: panda <panjianheng@kylinos.cn>
+Installed-Size: 31
+Depends: libc6 (>= 2.4)
+Section: devel
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

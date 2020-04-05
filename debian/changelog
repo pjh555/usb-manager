@@ -1,0 +1,5 @@
+usb-manager (3.0.3kord-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- panda <panjianheng@kylinos.cn>  Fri, 03 Apr 2020 15:01:33 +0800

@@ -1,0 +1,3 @@
+usr/libusbmanager.so /usr/lib
+usr/usb_manager.h /usr/include
+test/usb-manager /usr/bin

@@ -1,0 +1,15 @@
+Source: usb-manager
+Section: devel
+Priority: optional
+Maintainer: panda <panjianheng@kylinos.cn>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 4.1.2
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: https://anonscm.debian.org/git/collab-maint/usb-manager.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/usb-manager.git
+
+Package: usb-manager
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
